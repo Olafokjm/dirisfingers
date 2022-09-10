@@ -1,0 +1,107 @@
+.bg-dark{
+    background-color: #A617DD !important;
+}
+
+.card-text{
+    height: 5rem;
+    text-align: justify;
+}
+
+.contacto{
+    display: inline-flex;
+}
+
+.dir a{
+    padding-left: 0;
+}
+
+.footer{
+    background-color: #A617DD;
+    color: #FFF;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.mision img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.navbar-brand img{
+    border-radius: 5px;
+}
+
+.nav-link{
+    color: #FFF !important;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    background-color: #FFF;
+    color: #A617DD !important;
+    border-radius: 5px;
+}
+
+.qrCode{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.qrCod h4{
+    text-align: center;
+}
+
+.qrCode img{
+    text-align: center;
+    width: 15rem;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+form{
+    background-color: rgba(165, 23, 221, 0.6);
+    padding: 10px;
+    border-radius: 5px;
+    color: #FFF;
+    margin-top: 10px;
+}
+
+form h4{
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}
+
+table h3{
+    text-align: center;
+    font-weight: bold;
+}
+
+.t1{
+    width: 50%;
+}
+
+.t2{
+    width: 50%;
+    text-align: right;
+}
+
+#contacto img{
+    width: 100%;
+}
+
+#nosotros p, 
+.nosotros p{
+    text-align: justify;
+}
+
+#nosotros h1,
+.nosotros h3{
+    margin-bottom: 15px;
+}
+
